@@ -1,0 +1,9 @@
+**/.*
+*.iml
+node_modules/
+test/
+lib/
+babel.config.js
+Gruntfile.js
+webpack.*.js
+index.js
